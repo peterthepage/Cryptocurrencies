@@ -4,7 +4,7 @@ The goal of the project was to use unsupervised machine learning to analyze cryp
 * Preprocess data for unsupervised learning.
 * Clustering data using the KMeans algorithm.
 * Visualizing results with 2D and 3D Scatter plots.
-## Results
-After processing the data these are the results.
+## Summary
 ### 3D Scatter Plot
 ![pic3](https://github.com/peterthepage/Cryptocurrencies/blob/main/Resources/Capture1.PNG)
+The report found 532 cryptos that should be analyzed further to figure out their performance and see what the best investments are among the cryptocurrencies.
